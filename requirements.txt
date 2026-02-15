@@ -1,0 +1,23 @@
+# Core Dependencies
+streamlit>=1.31.0
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Data Visualization
+plotly>=5.18.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# News Fetching (add the ones you're actually using)
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+feedparser>=6.0.0
+python-dateutil>=2.8.0
+
+# API Libraries (uncomment if needed)
+# newsapi-python>=0.2.7
+# yfinance>=0.2.0
+# alpha-vantage>=2.3.0
+
+# Utilities
+pytz>=2023.3
